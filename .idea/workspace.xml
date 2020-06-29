@@ -21,11 +21,32 @@
   <component name="ChangeListManager">
     <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRoute.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/main-page/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/main-page/MainPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/broken-deathStart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/main-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/space-backgrounds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/unnamed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/common-styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/common-styles/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/Character.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/Characters.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/CharacterContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/CharactersContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/character.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/characters.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/Film.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/Films.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/FilmContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/FilmsContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/film.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/films.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/loader/Loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/loader/Loader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/Planets.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/planets/Planets.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/PlanetsContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/planets/PlanetsContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/planets.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/planets/planets.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/StarshipsContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/StarshipsContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/starships.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/starships.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/pages/main-page/mainPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/main-page/mainPage.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/starwars-universe-page/StarwarsUniversePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/universe-page/UniversePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/universe-page/UniversePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/universe-page/UniversePage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/universe-page/universePage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/universe-page/universePage.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +88,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 202.5792.46\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\Антон\Desktop\Swapi-App\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,6 +121,7 @@
       <workItem from="1593430024160" duration="5000" />
       <workItem from="1593419491740" duration="542000" />
       <workItem from="1593420205095" duration="3720000" />
+      <workItem from="1593445160851" duration="14531000" />
     </task>
     <servers />
   </component>
@@ -123,25 +145,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593077799643" />
-    <state width="1893" height="267" key="GridCell.Tab.0.bottom" timestamp="1593423993206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom" timestamp="1593463218416">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593429912099" />
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593463218416" />
     <state width="1893" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593423993206" />
-    <state width="1893" height="267" key="GridCell.Tab.0.center" timestamp="1593423993206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.center" timestamp="1593463218416">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593429912099" />
+    <state width="1509" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593463218416" />
     <state width="1893" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593423993206" />
-    <state width="1893" height="267" key="GridCell.Tab.0.left" timestamp="1593423993206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.left" timestamp="1593463218416">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593429912099" />
+    <state width="1509" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593463218416" />
     <state width="1893" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593423993206" />
-    <state width="1893" height="267" key="GridCell.Tab.0.right" timestamp="1593423993206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.right" timestamp="1593463218416">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593429912099" />
+    <state width="1509" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593463218416" />
     <state width="1893" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593423993206" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1593450496047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593450496047" />
   </component>
 </project>

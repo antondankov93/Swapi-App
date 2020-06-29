@@ -8,7 +8,7 @@ import {Provider} from "react-redux";
 import {App} from "./node_modules/App";
 import {Header} from "components/header/Header";
 
-import './index.scss'
+import './index.scss';
 
 ReactDOM.render(
     <React.StrictMode>
