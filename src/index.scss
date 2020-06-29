@@ -1,0 +1,8 @@
+@import '~common-styles/colors';
+@import '~common-styles/mixins';
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: $base_grey;
+}
