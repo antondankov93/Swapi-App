@@ -22,45 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/UserAccountPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/backgrounds/broken-deathStart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/backgrounds/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/backgrounds/space-backgrounds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/universe-page/characters-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/assets/universe-page/characters-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/universe-page/films-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/assets/universe-page/films-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/universe-page/planets-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/assets/universe-page/planets-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/universe-page/planets-background1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/assets/universe-page/starships-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/assets/universe-page/starships-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/common-styles/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/common-styles/fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/common-styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/common-styles/mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/Characters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/Characters.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/characters.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/characters.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/Films.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/Films.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/films.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/films.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/footer/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/footer/footer.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/Planets.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/planets/Planets.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/planets.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/planets/planets.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/starships.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/starships.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/init/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/graphs-page/GraphsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/charts-page/ChartsPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/main-page/MainPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/main-page/MainPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/main-page/mainPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/main-page/mainPage.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/universe-page/UniversePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/world-page/WorldPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/universe-page/universePage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/world-page/worldPage.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-settings-page/UserSettingsPage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,8 +106,16 @@
       <workItem from="1593420205095" duration="3720000" />
       <workItem from="1593445160851" duration="14531000" />
       <workItem from="1593503167844" duration="6176000" />
-      <workItem from="1593510975261" duration="35089000" />
+      <workItem from="1593510975261" duration="35166000" />
     </task>
+    <task id="LOCAL-00001" summary="was create redux store">
+      <created>1593636101421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593636101421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +132,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="was create redux store" />
+    <option name="LAST_COMMIT_MESSAGE" value="was create redux store" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593077799643">
