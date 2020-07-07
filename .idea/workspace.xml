@@ -21,12 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/filmsReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/filmsReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/filmsTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/films/filmsTypes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/quiz-page/QuizPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/quiz-page/QuizPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/quiz-page/quizPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/quiz-page/quizPage.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +65,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2d18559b-4354-4b91-8c08-e6d611bc1464" name="Default Changelist" comment="" />
+      <changelist id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store" />
       <created>1594022191330</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594022191330</updated>
       <workItem from="1594022196091" duration="6539000" />
+      <workItem from="1594151712630" duration="904000" />
     </task>
     <servers />
   </component>
