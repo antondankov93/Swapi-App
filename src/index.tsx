@@ -6,19 +6,19 @@ import {Provider} from "react-redux";
 
 
 import {App} from "./node_modules/App";
-import {Header} from "components/header/Header";
 
 import './index.scss';
 import store from "init/store";
+import ErrorBoundry from "components/error-boundry/ErrorBoundry";
 
 ReactDOM.render(
-    <React.StrictMode>
-        <Provider store = {store}>
-        <BrowserRouter>
-            <App/>
-        </BrowserRouter>
-        </Provider>
-    </React.StrictMode>,
+    <Provider store={store}>
+        <ErrorBoundry>
+            <BrowserRouter>
+                <App/>
+            </BrowserRouter>
+        </ErrorBoundry>
+    </Provider>,
     document.getElementById('root')
 );
 

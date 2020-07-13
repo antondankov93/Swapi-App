@@ -23,29 +23,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store">
+      <change afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/planetsCharts.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulation.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsPopulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsPopulation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsPopulation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsPopulation.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/planetsPopulationSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/planetsPopulationSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/PlanetsComparison.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulationChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/PlanetsComparisonChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsChart.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsChart.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsPopulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsCharts.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsPopulation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/planetsComparison.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/planetsPopulationSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/planetsPopulationSaga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/workers/planetsForComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/workers/planetsForComparisonWorker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/workers/planetsPopulationWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/workers/planetsPopulationWorker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/StarshipsComparison.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/StarshipsComparison.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/hooks/useShipsComparison.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/hooks/useShipsComparison.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/reducer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/shipsComparisonSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/shipsComparisonSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/starshipsComparison.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/starshipsComparison.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/YourPlanet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/YourPlanet.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/hooks/useYourPlanet.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/hooks/useYourPlanet.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/saga/yourPlanetSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/saga/yourPlanetSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/yourPlanet.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/your-planet/yourPlanet.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsComparisonWorker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsForComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsForComparisonWorker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/error/Error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/error/Error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/error/error.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/error/error.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-container/QuestionContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-container/QuestionContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/charts-page/ChartsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/charts-page/ChartsPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -75,7 +80,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/node_modules/components/charts/planets-population" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,16 +92,17 @@
     <property name="ts.external.directory.path" value="C:\Users\Антон\Desktop\Swapi-App\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\quiz\quiz-answer" />
-      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\quiz\quiz-question" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\quiz\quiz-end" />
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\starships-comparison\hooks" />
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\starships-comparison" />
       <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\planets-population" />
       <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\your-planet\saga\workers" />
-      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\starships-comparison\saga\workers" />
-      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\planets-population\saga\workers" />
-      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\comparing-starships\hooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\charts\planets-comparison\chart" />
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\quiz\quiz-answer" />
+      <recent name="C:\Users\Антон\Desktop\Swapi-App\src\node_modules\components\quiz\quiz-question" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -120,6 +126,7 @@
       <workItem from="1594401211363" duration="37144000" />
       <workItem from="1594531876814" duration="19314000" />
       <workItem from="1594566012531" duration="6367000" />
+      <workItem from="1594609203797" duration="36531000" />
     </task>
     <servers />
   </component>
