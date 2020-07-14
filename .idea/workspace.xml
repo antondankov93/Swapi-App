@@ -23,34 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store">
-      <change afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/planetsCharts.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/PlanetsComparison.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/PlanetsPopulationChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/PlanetsComparisonChart.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsChart.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsChart.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/hooks/usePlanetsPopulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsCharts.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/planetsPopulation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/planetsComparison.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/planetsPopulationSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/planetsPopulationSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/workers/planetsForComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/workers/planetsForComparisonWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/saga/workers/planetsPopulationWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/saga/workers/planetsPopulationWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-population/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/StarshipsComparison.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/StarshipsComparison.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/hooks/useShipsComparison.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/hooks/useShipsComparison.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/shipsComparisonSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/shipsComparisonSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsComparisonWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsForComparisonWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/starships-comparison/saga/workers/shipsForComparisonWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/error/Error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/error/Error.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/error/error.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/error/error.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-container/QuestionContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-container/QuestionContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/Charts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/Charts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/loader/loader.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/loader/loader.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/QuizEnd.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/QuizEnd.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/quizEnd.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/quizEnd.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootSaga.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/charts-page/ChartsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/charts-page/ChartsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/UserAccountPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/UserAccountPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +47,7 @@
       <list>
         <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -81,6 +67,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -127,6 +114,7 @@
       <workItem from="1594531876814" duration="19314000" />
       <workItem from="1594566012531" duration="6367000" />
       <workItem from="1594609203797" duration="36531000" />
+      <workItem from="1594688945585" duration="8775000" />
     </task>
     <servers />
   </component>
@@ -158,21 +146,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594375928494" />
-    <state width="1893" height="267" key="GridCell.Tab.0.bottom" timestamp="1594029100488">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom" timestamp="1594697231202">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594697231202" />
     <state width="1893" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594029100488" />
-    <state width="1893" height="267" key="GridCell.Tab.0.center" timestamp="1594029100488">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.center" timestamp="1594697231202">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594697231202" />
     <state width="1893" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594029100488" />
-    <state width="1893" height="267" key="GridCell.Tab.0.left" timestamp="1594029100456">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.left" timestamp="1594697231202">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594697231202" />
     <state width="1893" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594029100456" />
-    <state width="1893" height="267" key="GridCell.Tab.0.right" timestamp="1594029100488">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1509" height="196" key="GridCell.Tab.0.right" timestamp="1594697231202">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1509" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594697231202" />
     <state width="1893" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594029100488" />
     <state x="160" y="0" key="SettingsEditor" timestamp="1594241463304">
       <screen x="0" y="0" width="1536" height="824" />

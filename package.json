@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-transition-group": "^4.4.0",
+    "@types/redux-form": "^8.2.7",
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
     "chart.js": "^2.9.3",
