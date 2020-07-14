@@ -24,18 +24,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d1217952-78f1-4cc8-98ec-da1d5cc75016" name="Default Changelist" comment="was create redux store">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/Charts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/chart/Charts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/charts/planets-comparison/hooks/usePlanetsPopulation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/loader/loader.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/loader/loader.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/QuizEnd.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/QuizEnd.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/quizEnd.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/quiz/quiz-end/quizEnd.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/init/rootReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/UserAccountPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/UserAccountPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/pages/user-account-page/useAccountPage.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/MainRouter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/Characters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/Characters.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/CharactersContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/characters/hooks/useCharactersFetch.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/characters/hooks/useCharactersFetch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/films/FilmsContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/forms/LoginForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/forms/LoginForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/forms/loginForm.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/forms/loginForm.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/planets/PlanetsContainer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/components/starships/Starships.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node_modules/styles/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/node_modules/styles/colors.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
         <option value="SCSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -114,7 +112,7 @@
       <workItem from="1594531876814" duration="19314000" />
       <workItem from="1594566012531" duration="6367000" />
       <workItem from="1594609203797" duration="36531000" />
-      <workItem from="1594688945585" duration="8775000" />
+      <workItem from="1594688945585" duration="12161000" />
     </task>
     <servers />
   </component>
@@ -142,10 +140,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594241424709" />
-    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594375928494">
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594740167724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594375928494" />
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594740167724" />
     <state width="1509" height="196" key="GridCell.Tab.0.bottom" timestamp="1594697231202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
